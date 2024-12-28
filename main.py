@@ -1,5 +1,5 @@
 import tkinter as tk
-import time
+from time import sleep
 # Function to change the label text
 def change_label_text():
     label.config(text="Hello, Tkinter!")
