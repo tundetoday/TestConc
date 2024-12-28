@@ -10,7 +10,7 @@ app.title("Basic Tkinter App")
 app.geometry("300x200")  # Set the size of the window
 
 # Create a label widget
-label = tk.Label(app, text="Welcome to Tkinter!", font=("Arial", 14))
+label = tk.Label(app, text="Welcome to Eden", font=("Arial", 14))
 label.pack(pady=20)  # Add some vertical padding
 
 # Create a button widget
